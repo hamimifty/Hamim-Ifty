@@ -1,18 +1,18 @@
 I'm Hamim Ifty
 
 **Skills:**
-- Basic programming in C language
-- Version control with Git and GitHub
-- Linux
-- HTML
-- Java
-- Python
+* Basic programming in C language
+* Version control with Git and GitHub
+* Linux
+* HTML
+* Java
+* Python
 
 **Languages:**
-- Bangla (Native)
-- English (Fluent)
+* Bangla (Native)
+* English (Fluent)
 
-Feel free to [contact me](mailto:hamimhasan.ifty77@gmail.com) for any opportunities or collaborations.
+Feel free to [contact me](mailto:hamimhasanifty33@gmail.com) for any opportunities or collaborations.
 
 You can download my CV by clicking the link below:
 
